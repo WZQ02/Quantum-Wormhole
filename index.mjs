@@ -89,7 +89,7 @@ const bundle = [
   {
     condition: (input) =>
       input.toLowerCase().includes("ceylan") || input.includes("锡兰"),
-    redirectURL: "https://www.youtube.com/user/CeylanLC/featured",
+    redirectURL: "https://www.bilibili.com/video/BV1RW411D7wE",
   },
   {
     condition: (input) => input.toLowerCase() === "原版",
@@ -99,8 +99,13 @@ const bundle = [
     condition: (input) => ["弹幕付", "弹幕附"].includes(input),
     redirectURL: "https://youtu.be/jfTK-Om5wiY",
   },
-    {
+  {
     condition: (input) => input.toLowerCase() === "中之人",
+    redirectURL: "https://space.bilibili.com/663362",
+  },
+  {
+    condition: (input) => 
+      input.includes("李天香") || input.includes("李大鸟"),
     redirectURL: "https://space.bilibili.com/10706866",
   },
 ];

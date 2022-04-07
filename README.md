@@ -13,7 +13,7 @@
 
 ## What is this?
 
-WZQ02's Quantum Wormhole (WQW) is a free open source implementation of [Ocean Peace Quantum Wormhole](https://en.oceanpeace.com.cn/static/product-detail.html). ~~**Definitely not copied from**~~ [AdhesionTek Quantum Wormhole](https://github.com/AdhesionTek/Quantum-Wormhole).
+WZQ02's Quantum Wormhole (WQW) is a free open source implementation of [Ocean Peace Quantum Wormhole](https://en.oceanpeace.com.cn/static/product-detail.html) with extra added features including viewing 粘连科技's 中之人. ~~**Definitely not copied from [AdhesionTek's Quantum Wormhole](https://github.com/AdhesionTek/Quantum-Wormhole)**~~.
 
 ## Try it now!
 

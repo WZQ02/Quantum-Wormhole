@@ -38,7 +38,7 @@ function generateOnClick() {
             canvasSrt="https://www.bilibili.com/video/BV1244y1p7kt";
         }
         if (nameInput.value.toLowerCase().includes("ceylan") || nameInput.value.includes("锡兰")) {
-            canvasSrt="https://www.youtube.com/user/CeylanLC/featured";
+            canvasSrt="https://www.bilibili.com/video/BV1RW411D7wE";
         }
         if (nameInput.value==="原版") {
             canvasSrt="https://youtu.be/pKKlGQtc_ss";
@@ -47,6 +47,9 @@ function generateOnClick() {
             canvasSrt="https://youtu.be/jfTK-Om5wiY";
         }
         if (nameInput.value==="中之人") {
+            canvasSrt="https://space.bilibili.com/663362";
+        }
+        if (nameInput.value.includes("李天香") || nameInput.value.includes("李大鸟")) {
             canvasSrt="https://space.bilibili.com/10706866";
         }
     }
