@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://wzq02.tk:893/quantumwormhole/logo.png" alt="Logo">
+<img src="https://wzq02.cf:893/quantumwormhole/logo.png" alt="Logo">
 </p>
 
 <p align="center">
