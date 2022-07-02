@@ -17,5 +17,5 @@ WZQ02's Quantum Wormhole (WQW) is a free open source implementation of [Ocean Pe
 
 ## Try it now!
 
-- Online: [Link](https://wzq02.tk:893/quantumwormhole/)
+- Online: [Link](https://wzq02.cf:893/quantumwormhole/)
 - Install: This is a PWA.
